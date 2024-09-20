@@ -27,7 +27,7 @@ O objetivo deste jogo é adivinhar um número secreto gerado aleatoriamente. O j
 1. Clone este repositório:
 
     ```bash
-    [https://github.com/PontesEdu/numero-secreto.git]
+    https://github.com/PontesEdu/numero-secreto.git
     ```
 
 2. Navegue até o diretório do projeto:
